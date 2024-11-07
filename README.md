@@ -1,5 +1,8 @@
 # robosys2024
+
 ロボットシステム学授業用
+
+[![test](https://github.com/ryuichiueda/robosys2024/actions/workflows/test.yml/badge.svg)](https://github.com/ryuichiueda/robosys2024/actions/workflows/test.yml)
 
 - このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
 - このパッケージは，aaa由来のコード（© 2022 Hoge Fuge）を利用しています．
